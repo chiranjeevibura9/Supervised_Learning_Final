@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project applies **supervised learning** techniques to classify text documents into **20 different categories**. Three machine learning models were tested:
 
-- **Naïve Bayes** 📊
+- **Naive Bayes** 📊
 - **Support Vector Machine (SVM) with Linear Kernel** ⚡
 - **Random Forest** 🌲
 
@@ -26,7 +26,7 @@ The **SVM model** achieved the highest accuracy and was further optimized using 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/supervised-learning-project.git
+   git clone https://github.com/chiranjeevibura9/supervised-learning-project.git
    cd supervised-learning-project
    ```
 
@@ -82,11 +82,6 @@ The **SVM model** achieved the highest accuracy and was further optimized using 
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 1. **Fork the repository** 🍴
@@ -100,7 +95,7 @@ Contributions are welcome! Please follow these steps:
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out:
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 GitHub: [your-username](https://github.com/your-username)  
+📧 Email: [chiranjeevi.bura.9@gmail.com](mailto:chiranjeevi.bura.9@gmail.com)  
+🔗 GitHub: [chiranjeevibura9](https://github.com/chiranjeevibura9)  
 
 🚀 Happy Coding!
